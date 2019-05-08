@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WC.Repositories", "WC.Repos
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WC.BOL", "WC.BOL\WC.BOL.csproj", "{11BD3CDB-04D4-4D7D-AC4C-76C3DB450F72}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WC.RestApi", "WC.RestApi\WC.RestApi.csproj", "{C709502F-4DF3-4124-9173-B148462E5A17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{11BD3CDB-04D4-4D7D-AC4C-76C3DB450F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11BD3CDB-04D4-4D7D-AC4C-76C3DB450F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11BD3CDB-04D4-4D7D-AC4C-76C3DB450F72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C709502F-4DF3-4124-9173-B148462E5A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C709502F-4DF3-4124-9173-B148462E5A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C709502F-4DF3-4124-9173-B148462E5A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C709502F-4DF3-4124-9173-B148462E5A17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
