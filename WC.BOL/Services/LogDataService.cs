@@ -48,7 +48,9 @@ namespace WC.BOL.Services
             var logData = repository.Get(id.Value);
             if (logData == null)
             {
-                throw new Exception("Information not found");
+                //throw new Exception("Information not found");
+                LogDataDTO log = null;
+                return log;
             }
             return mapper.Map<LogDataDTO>(repository.Get(id.Value));
         }

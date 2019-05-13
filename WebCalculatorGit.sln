@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WC.BOL", "WC.BOL\WC.BOL.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WC.RestApi", "WC.RestApi\WC.RestApi.csproj", "{C709502F-4DF3-4124-9173-B148462E5A17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WC.Tests", "WC.Tests\WC.Tests.csproj", "{84C9A29A-E19A-4D76-ADAE-7F261077E727}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C709502F-4DF3-4124-9173-B148462E5A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C709502F-4DF3-4124-9173-B148462E5A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C709502F-4DF3-4124-9173-B148462E5A17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84C9A29A-E19A-4D76-ADAE-7F261077E727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84C9A29A-E19A-4D76-ADAE-7F261077E727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84C9A29A-E19A-4D76-ADAE-7F261077E727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84C9A29A-E19A-4D76-ADAE-7F261077E727}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

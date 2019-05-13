@@ -20,5 +20,6 @@ namespace WC.DAL.DbLayer
         public double SecondVariable { get; set; }
 
         public DateTime LogTime { get; set; }
+
     }
 }
